@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\bin\Debug\algLabirint.exe.config
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\App.g.cs
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint_MarkupCompile.cache
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint_MarkupCompile.lref
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\bin\Debug\algLabirint.exe
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\bin\Debug\algLabirint.pdb
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\MainWindow.baml
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint.g.resources
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint.Properties.Resources.resources
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint.exe
+C:\Users\Igor\Desktop\programms\visual studio projects\algLabirint\algLabirint\obj\Debug\algLabirint.pdb
